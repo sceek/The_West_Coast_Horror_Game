@@ -1,4 +1,4 @@
-The_West_Coast_Horror_Game
+The West Coast Horror Game
 ==========================
 
 A game based of horror stories from Sweden's west coast
