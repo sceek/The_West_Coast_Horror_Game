@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\The_West_Coast_Horror.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{D62842A7-6ED0-4E79-BA26-BD99F2B11E33}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\The_West_Coast_Horror.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\The_West_Coast_HorrorEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{68FB348C-C857-48B5-A1D6-BF8D2251B156}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\The_West_Coast_Horror">
+			<UniqueIdentifier>{A553FDAB-61F8-40AA-9831-67532E27E5D1}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_Horror.Build.cs">
+			<Filter>Source\The_West_Coast_Horror</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_Horror.cpp">
+			<Filter>Source\The_West_Coast_Horror</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_Horror.h">
+			<Filter>Source\The_West_Coast_Horror</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_HorrorCharacter.cpp">
+			<Filter>Source\The_West_Coast_Horror</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_HorrorCharacter.h">
+			<Filter>Source\The_West_Coast_Horror</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_HorrorGameMode.cpp">
+			<Filter>Source\The_West_Coast_Horror</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_HorrorGameMode.h">
+			<Filter>Source\The_West_Coast_Horror</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_HorrorHUD.cpp">
+			<Filter>Source\The_West_Coast_Horror</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_HorrorHUD.h">
+			<Filter>Source\The_West_Coast_Horror</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_HorrorProjectile.cpp">
+			<Filter>Source\The_West_Coast_Horror</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_HorrorProjectile.h">
+			<Filter>Source\The_West_Coast_Horror</Filter>
+		</ClInclude >
+		<Filter Include="Source\The_West_Coast_Horror\Resources">
+			<UniqueIdentifier>{C2F5E76A-F76F-4975-B59C-A9C674CE0433}</UniqueIdentifier>
+		</Filter>
+		<Filter Include="Source\The_West_Coast_Horror\Resources\Windows">
+			<UniqueIdentifier>{2FDD39F6-184B-4049-A7D3-B744E763E83A}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\The_West_Coast_Horror\Resources\Windows\The_West_Coast_Horror.ico">
+			<Filter>Source\The_West_Coast_Horror\Resources\Windows</Filter>
+		</None >
+		<ResourceCompile Include="..\..\Source\The_West_Coast_Horror\Resources\Windows\The_West_Coast_Horror.rc">
+			<Filter>Source\The_West_Coast_Horror\Resources\Windows</Filter>
+		</ResourceCompile >
+	</ItemGroup>
+</Project>
