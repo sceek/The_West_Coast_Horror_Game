@@ -4,7 +4,7 @@
 	<ItemGroup>
 		<None Include="..\..\The_West_Coast_Horror.uproject" />
 		<Filter Include="Source">
-			<UniqueIdentifier>{D62842A7-6ED0-4E79-BA26-BD99F2B11E33}</UniqueIdentifier>
+			<UniqueIdentifier>{324211AD-C635-4D9F-BF56-76559E6F13D4}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\The_West_Coast_Horror.Target.cs">
 			<Filter>Source</Filter>
@@ -13,7 +13,7 @@
 			<Filter>Source</Filter>
 		</None >
 		<Filter Include="Config">
-			<UniqueIdentifier>{68FB348C-C857-48B5-A1D6-BF8D2251B156}</UniqueIdentifier>
+			<UniqueIdentifier>{1A3C488D-30C7-4B8B-9A2F-59BDEC0F608F}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Config\DefaultEditor.ini">
 			<Filter>Config</Filter>
@@ -28,7 +28,7 @@
 			<Filter>Config</Filter>
 		</None >
 		<Filter Include="Source\The_West_Coast_Horror">
-			<UniqueIdentifier>{A553FDAB-61F8-40AA-9831-67532E27E5D1}</UniqueIdentifier>
+			<UniqueIdentifier>{5DB9DE14-E7E6-4985-849A-699C47039C71}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\The_West_Coast_Horror\The_West_Coast_Horror.Build.cs">
 			<Filter>Source\The_West_Coast_Horror</Filter>
@@ -64,10 +64,10 @@
 			<Filter>Source\The_West_Coast_Horror</Filter>
 		</ClInclude >
 		<Filter Include="Source\The_West_Coast_Horror\Resources">
-			<UniqueIdentifier>{C2F5E76A-F76F-4975-B59C-A9C674CE0433}</UniqueIdentifier>
+			<UniqueIdentifier>{9EAD9E2F-FA8E-4BBB-B621-F55519F02047}</UniqueIdentifier>
 		</Filter>
 		<Filter Include="Source\The_West_Coast_Horror\Resources\Windows">
-			<UniqueIdentifier>{2FDD39F6-184B-4049-A7D3-B744E763E83A}</UniqueIdentifier>
+			<UniqueIdentifier>{6C39610E-8243-4959-AF47-5B41745E97CC}</UniqueIdentifier>
 		</Filter>
 		<None Include="..\..\Source\The_West_Coast_Horror\Resources\Windows\The_West_Coast_Horror.ico">
 			<Filter>Source\The_West_Coast_Horror\Resources\Windows</Filter>

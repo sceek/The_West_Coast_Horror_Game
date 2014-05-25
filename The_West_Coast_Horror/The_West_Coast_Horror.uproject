@@ -13,7 +13,7 @@
 	"CreatedByURL": "",
 	"Modules": [
 		{
-			"Name": "West Coast Horror Game",
+			"Name": "The_West_Coast_Horror",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
